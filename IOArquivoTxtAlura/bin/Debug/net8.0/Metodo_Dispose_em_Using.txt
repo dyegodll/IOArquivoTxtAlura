@@ -1,0 +1,63 @@
+O método Dispose() em C# faz parte da interface IDisposable e é usado para liberar recursos não gerenciados, como conexões de banco de dados, arquivos ou conexões de rede. O using é um atalho que garante a chamada automática do Dispose() ao final do bloco.
+
+🔹 Como o Dispose() funciona?
+O Dispose() é implementado em classes que utilizam recursos externos ao gerenciamento do .NET, como Stream, SqlConnection, HttpClient, etc.
+
+Exemplo de implementação do Dispose() em uma classe:
+
+public class MeuRecurso : IDisposable
+{
+    private bool _disposed = false;
+
+    public void UsarRecurso()
+    {
+        if (_disposed)
+            throw new ObjectDisposedException("MeuRecurso");
+
+        Console.WriteLine("Usando recurso...");
+    }
+
+    public void Dispose()
+    {
+        if (!_disposed)
+        {
+            Console.WriteLine("Liberando recurso...");
+            _disposed = true;
+        }
+    }
+}
+
+
+🔹 Uso do Dispose() com using
+O using simplifica a liberação de recursos, garantindo que o Dispose() seja chamado automaticamente ao sair do escopo.
+
+using (MeuRecurso recurso = new MeuRecurso())
+{
+    recurso.UsarRecurso();
+} // Aqui o Dispose() é chamado automaticamente
+
+Isso equivale ao código manual:
+
+MeuRecurso recurso = new MeuRecurso();
+try
+{
+    recurso.UsarRecurso();
+}
+finally
+{
+    recurso.Dispose(); // Garantia de liberação
+}
+
+🔹 Exemplo com StreamReader
+Aqui está um exemplo comum de using com StreamReader:
+
+using (StreamReader leitor = new StreamReader("arquivo.txt"))
+{
+    string conteudo = leitor.ReadToEnd();
+    Console.WriteLine(conteudo);
+} // Dispose() é chamado automaticamente no final
+
+🔹 Por que usar using?
+Evita vazamento de memória ao liberar recursos corretamente.
+Código mais limpo e seguro.
+Garante que Dispose() seja chamado mesmo em caso de erro.

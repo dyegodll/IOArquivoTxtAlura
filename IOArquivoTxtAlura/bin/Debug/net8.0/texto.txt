@@ -1,7 +1,18 @@
-Arquivo lido em C# 1
-Arquivo lido em C# 2
-Arquivo lido em C# 3
-Arquivo lido em C# 4
-Arquivo lido em C# 5
+📖 Provérbios 3:5-6
+"Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas."
 
-teste código país mãe !
+📖 Inglês (English):
+"Trust in the Lord with all your heart, and do not lean on your own understanding. In all your ways acknowledge Him, and He will make your paths straight."
+— Provérbios 3:5-6
+
+📖 Japonês (日本語):
+"心を尽くして主に信頼し、自分の悟りに頼ってはならない。あなたのすべての道で主を認めよ。そうすれば、主はあなたの進む道をまっすぐにされる。"
+— 箴言 3:5-6
+
+📖 Francês (Français):
+"Confie-toi en l'Éternel de tout ton cœur, et ne t’appuie pas sur ta sagesse. Reconnais-le dans toutes tes voies, et il aplanira tes sentiers."
+— Proverbes 3:5-6
+
+📖 Alemão (Deutsch):
+"Vertraue auf den Herrn von ganzem Herzen und verlass dich nicht auf deinen Verstand. Erkenne ihn auf allen deinen Wegen, so wird er deine Pfade ebnen."
+— Sprüche 3:5-6
