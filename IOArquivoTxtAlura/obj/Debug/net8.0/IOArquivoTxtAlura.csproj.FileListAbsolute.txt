@@ -1,0 +1,14 @@
+C:\Users\dyego.lima\source\repos\IOArquivoTxtAlura\IOArquivoTxtAlura\bin\Debug\net8.0\IOArquivoTxtAlura.exe
+C:\Users\dyego.lima\source\repos\IOArquivoTxtAlura\IOArquivoTxtAlura\bin\Debug\net8.0\IOArquivoTxtAlura.deps.json
+C:\Users\dyego.lima\source\repos\IOArquivoTxtAlura\IOArquivoTxtAlura\bin\Debug\net8.0\IOArquivoTxtAlura.runtimeconfig.json
+C:\Users\dyego.lima\source\repos\IOArquivoTxtAlura\IOArquivoTxtAlura\bin\Debug\net8.0\IOArquivoTxtAlura.dll
+C:\Users\dyego.lima\source\repos\IOArquivoTxtAlura\IOArquivoTxtAlura\bin\Debug\net8.0\IOArquivoTxtAlura.pdb
+C:\Users\dyego.lima\source\repos\IOArquivoTxtAlura\IOArquivoTxtAlura\obj\Debug\net8.0\IOArquivoTxtAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyego.lima\source\repos\IOArquivoTxtAlura\IOArquivoTxtAlura\obj\Debug\net8.0\IOArquivoTxtAlura.AssemblyInfoInputs.cache
+C:\Users\dyego.lima\source\repos\IOArquivoTxtAlura\IOArquivoTxtAlura\obj\Debug\net8.0\IOArquivoTxtAlura.AssemblyInfo.cs
+C:\Users\dyego.lima\source\repos\IOArquivoTxtAlura\IOArquivoTxtAlura\obj\Debug\net8.0\IOArquivoTxtAlura.csproj.CoreCompileInputs.cache
+C:\Users\dyego.lima\source\repos\IOArquivoTxtAlura\IOArquivoTxtAlura\obj\Debug\net8.0\IOArquivoTxtAlura.dll
+C:\Users\dyego.lima\source\repos\IOArquivoTxtAlura\IOArquivoTxtAlura\obj\Debug\net8.0\refint\IOArquivoTxtAlura.dll
+C:\Users\dyego.lima\source\repos\IOArquivoTxtAlura\IOArquivoTxtAlura\obj\Debug\net8.0\IOArquivoTxtAlura.pdb
+C:\Users\dyego.lima\source\repos\IOArquivoTxtAlura\IOArquivoTxtAlura\obj\Debug\net8.0\IOArquivoTxtAlura.genruntimeconfig.cache
+C:\Users\dyego.lima\source\repos\IOArquivoTxtAlura\IOArquivoTxtAlura\obj\Debug\net8.0\ref\IOArquivoTxtAlura.dll
