@@ -12,3 +12,4 @@ C:\Users\dyego.lima\source\repos\IOArquivoTxtAlura\IOArquivoTxtAlura\obj\Debug\n
 C:\Users\dyego.lima\source\repos\IOArquivoTxtAlura\IOArquivoTxtAlura\obj\Debug\net8.0\IOArquivoTxtAlura.pdb
 C:\Users\dyego.lima\source\repos\IOArquivoTxtAlura\IOArquivoTxtAlura\obj\Debug\net8.0\IOArquivoTxtAlura.genruntimeconfig.cache
 C:\Users\dyego.lima\source\repos\IOArquivoTxtAlura\IOArquivoTxtAlura\obj\Debug\net8.0\ref\IOArquivoTxtAlura.dll
+C:\Users\dyego.lima\source\repos\IOArquivoTxtAlura\IOArquivoTxtAlura\obj\Debug\net8.0\IOArquivoTxtAlura.sourcelink.json
