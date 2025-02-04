@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IOArquivoTxtAlura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5680395b6a70efdf9eba6baeaa1592ace5ca181")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+414ab204b16df1689dbdf28ba793a1b0064c2691")]
 [assembly: System.Reflection.AssemblyProductAttribute("IOArquivoTxtAlura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IOArquivoTxtAlura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
